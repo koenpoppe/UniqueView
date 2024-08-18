@@ -36,7 +36,7 @@ Example:
 
 For varying numbers of unique elements ranging from all identical to all identical, the time for creating the unique sequence and summing the unique elements was compared between STL baseline and `UniqueView`:
 
-![Preliminary timings](UniqueView-preliminary timings.png)
+![Preliminary timings comparing the default implementation with UniqueView](https://raw.githubusercontent.com/koenpoppe/UniqueView/main/UniqueView-preliminary%20timings.png)
 
 ## Parallel implementation
 
